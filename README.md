@@ -5,7 +5,8 @@ Algorithm Name: Spooky Mystery Solver
 - Spooky mystery solver is an educational game that enables the user to learn about the binary search function in python, and how it operates
 
 # Demo Video and Testing
-TBC
+To access demo video and testing cases please use this google drive link, as github presented issues uploading the images and videos directly to the README:
+https://drive.google.com/drive/folders/1wXplrGy3IqoipRPY9r43XfmsE-PjaXEn?usp=sharing
 
 # Problem Breakdown and Computational Thinking
 TBC
