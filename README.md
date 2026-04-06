@@ -6,6 +6,9 @@ Algorithm Name: Spooky Mystery Solver
 
 Spooky mystery solver is an educational game that enables the user to learn about the python binary search method in a fun and interactive manner. The user attempts to find a villain among a list of 16 masked suspects using binary search in less than four guesses, the system suggests the optimal guess following the binary search process.
 
+# Design
+The layout of the game predominantly includes the centre game box, where the user can click "New Mystery" to generate a new scenario, or restart the game. The interface includes a visualizaiton of the current list range (with X's denoting the suspects that have been eliminated) the user can input their numbered guess into a text box, and click "Investigate" to make their guess. Clues and system feedback come through the right-side panel called "Investigation Log" and in the box above the list visualization. At the bottom of the app lie two drop-downs: (1) a full description of the binary search algorithm for further education, (2) disclaimer.
+
 # Demo Video and Testing
 To access demo video and testing cases please use this google drive link, as github presented issues uploading the images and videos directly to the README:
 https://drive.google.com/drive/folders/1wXplrGy3IqoipRPY9r43XfmsE-PjaXEn?usp=sharing
