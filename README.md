@@ -62,4 +62,4 @@ https://huggingface.co/spaces/L-J-J-S/CISC_121-Final_Project-Binary_Search
 # Acknowledgement
 Author: Luke Sipes
 
-AI Disclaimer: Portions of the program code were written with assistance from Claude Opus 4.6 with prompts based on this README, in accordance with the Level 4 AI policy mandated by the final project guidlines. Project concept, structure, and logic are entirely the author's own. AI assisted entirely with creating custom Gradio theming using a custom CCS (extra theming bonus due to extra time and not a required component of the project).
+AI Disclaimer: Portions of the program code were written with assistance from Claude Opus 4.6 with prompts based on this README, in accordance with the Level 4 AI policy mandated by the final project guidlines. Project concept, structure, and logic are entirely the author's own. AI assisted entirely with creating custom Gradio theming using a custom CCS (extra theming was a bonus due to extra time and not a required component of the project).
