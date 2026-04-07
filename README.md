@@ -17,7 +17,9 @@ https://drive.google.com/drive/folders/1wXplrGy3IqoipRPY9r43XfmsE-PjaXEn?usp=sha
 
 Why Binary Search?
 
-Binary search is one of the most efficient searching algorithms. Instead of checking every suspect one by one (linear search, O(n)), binary search cuts the search space in half with every guess, solving the problem in O(log n) time. The mystery/detective theme makes this concept intuitive: you're narrowing down suspects, eliminating half the lineup each round until only the villain remains. Binary search was chosen for this project as the author did not initially fully understand the binary search algorithm when learning it in the CISC 121 course, and educated themselves further in order to fully understand it. The author believes than a fun and interactive way to learn binary search will prove beneficial to future learners in the CISC 121 course, and young code learners.
+Binary search is one of the most efficient searching algorithms. Instead of checking every suspect one by one (linear search, O(n)), binary search cuts the search space in half with every guess, solving the problem in O(log n) time. The mystery/detective theme makes this concept intuitive: you're narrowing down suspects, eliminating half the lineup each round until only the villain remains. 
+
+Binary search was chosen for this project as the author did not initially fully understand the binary search algorithm when learning it in the CISC 121 course, and educated themselves further in order to fully understand it. The author believes than a fun and interactive way to learn binary search will prove beneficial to future learners in the CISC 121 course, and young code learners.
 
 The Four Pillars of Computational Thinking
 
